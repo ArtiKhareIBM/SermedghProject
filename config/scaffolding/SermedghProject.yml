@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareIBM
   gitUsername: ArtiKhareIBM
   gitBranch: main
+- name: AddIntsPackage
+  gitServerName: srcCtrl_AzRepos_Arti
+  gitUrl: https://dev.azure.com/ArtiKhare/AddIntsPackage/_git
+  gitUsername: ArtiKhare
+  gitBranch: master
